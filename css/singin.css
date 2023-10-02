@@ -1,0 +1,44 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: Montserrat;
+}
+
+.reg__title {
+  font-size: 30px;
+  margin: 40px;
+}
+.reg__block {
+  margin: 150px auto;
+  background-color: #F0F8FF;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  border: 2px grey solid;
+}
+.reg__input-block {
+  display: flex;
+  flex-direction: column;
+}
+.reg__input {
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 15px;
+  margin: 10px 10px;
+}
+.reg__send {
+  font-size: 20px;
+  color: black;
+}
+.reg__singIn {
+  color: grey;
+  font-size: 18px;
+  text-align: end;
+  margin: 10px 10px;
+}
+.reg__btn-block {
+  margin: 20px auto;
+}
